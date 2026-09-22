@@ -1,0 +1,152 @@
+[
+  {
+    "bbox": [
+      149,
+      67,
+      621,
+      148
+    ],
+    "label": "Section-Header",
+    "content": "\n<p><b>New Horizon Engg. Pvt. Ltd.</b><br/>NANJANGUD</p>\n"
+  },
+  {
+    "bbox": [
+      644,
+      80,
+      1179,
+      157
+    ],
+    "label": "Section-Header",
+    "content": "\n<p><b>INJECTION MOULDING DIVISION</b><br/><b>HOURLY MONITORING CARD</b></p>\n"
+  },
+  {
+    "bbox": [
+      1206,
+      75,
+      1611,
+      150
+    ],
+    "label": "Text",
+    "content": "\n<p>Opening Counter: <u>994</u><br/>Closing Counter: <u>1363</u></p>\n"
+  },
+  {
+    "bbox": [
+      149,
+      164,
+      702,
+      413
+    ],
+    "label": "Text",
+    "content": "\n<p>Part No. : <u>2946 5634</u><br/>Description : <u>FR BTM</u><br/>Raw Material : <u>PPCP NL</u><br/>Planned Prodn.: <u>433</u><br/>Date : <u>13/8/26</u><br/>Shift : <b>B</b> Batch No.: <u>33 NP</u></p>\n"
+  },
+  {
+    "bbox": [
+      887,
+      178,
+      1121,
+      262
+    ],
+    "label": "Text",
+    "content": "\n<p>Machine Name :<br/><u>NEW-150</u></p>\n"
+  },
+  {
+    "bbox": [
+      711,
+      291,
+      1238,
+      400
+    ],
+    "label": "Complex-Block",
+    "content": "\n<table border=\"1\">\n<tr>\n<td rowspan=\"2\">SAFETY<br/>INSTRUCTIONS</td>\n<td><input checked=\"\" type=\"checkbox\"/> Safety Shoe</td>\n<td><input type=\"checkbox\"/> While handling hot Jobs</td>\n<td><input type=\"checkbox\"/> Apron</td>\n<td><input type=\"checkbox\"/> While Brushing/Demoulding</td>\n</tr>\n<tr>\n<td><img alt=\"Safety shoe icon\"/></td>\n<td><img alt=\"Hand holding hot job icon\"/></td>\n<td><img alt=\"Apron icon\"/></td>\n<td><img alt=\"Person brushing icon\"/></td>\n</tr>\n</table>\n"
+  },
+  {
+    "bbox": [
+      1247,
+      164,
+      1665,
+      400
+    ],
+    "label": "Text",
+    "content": "\n<p>Cycle Time : <u>70:00</u><br/>Setup Time : <u>3:00</u><br/>Operator : <u>Dil. cep</u><br/>No. of Cavities : <u>01</u><br/>Purge Weight :<br/>Runner Weight: <u>827.8m</u></p>\n"
+  },
+  {
+    "bbox": [
+      149,
+      405,
+      1665,
+      858
+    ],
+    "label": "Table",
+    "content": "\n<table border=\"1\">\n<thead>\n<tr>\n<th>Start Time</th>\n<th>End Time</th>\n<th>Planned Qty.</th>\n<th>Produced Qty.</th>\n<th>%</th>\n<th>Rejection</th>\n<th>%</th>\n<th>Remarks</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>03.30 PM</td>\n<td>04.00 PM</td>\n<td>51</td>\n<td>48</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>04.00 PM</td>\n<td>05.00 PM</td>\n<td>51</td>\n<td>48</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>05.00 PM</td>\n<td>06.00 PM</td>\n<td>51</td>\n<td>47</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>06.00 PM</td>\n<td>07.00 PM</td>\n<td>51</td>\n<td>47</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>07.00 PM</td>\n<td>08.00 PM</td>\n<td>51</td>\n<td>20</td>\n<td></td>\n<td></td>\n<td></td>\n<td>Releaver machine stop due to no Rahwan</td>\n</tr>\n<tr>\n<td>08.00 PM</td>\n<td>09.00 PM</td>\n<td>51</td>\n<td>39</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>09.00 PM</td>\n<td>10.00 PM</td>\n<td>51</td>\n<td>47</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>10.00 PM</td>\n<td>11.00 PM</td>\n<td>51</td>\n<td>48</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>11.00 PM</td>\n<td>12.00 AM</td>\n<td>25</td>\n<td>25</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td colspan=\"2\">Total</td>\n<td>433</td>\n<td>369</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n"
+  },
+  {
+    "bbox": [
+      149,
+      858,
+      1665,
+      909
+    ],
+    "label": "Text",
+    "content": "\n<p>RM Loading : <u>256</u> OK Component : Physical Weight : <u>365</u> <u>+4</u></p>\n"
+  },
+  {
+    "bbox": [
+      795,
+      894,
+      1027,
+      928
+    ],
+    "label": "Section-Header",
+    "content": "\n<p><b>REJECTIONS</b></p>\n"
+  },
+  {
+    "bbox": [
+      149,
+      909,
+      1665,
+      998
+    ],
+    "label": "Table",
+    "content": "\n<table border=\"1\">\n<thead>\n<tr>\n<th>STRUP</th>\n<th>BD</th>\n<th>SS</th>\n<th>SM</th>\n<th>BM</th>\n<th>ST</th>\n<th>WL</th>\n<th>SC</th>\n<th>PC</th>\n<th>AB</th>\n<th>PH</th>\n<th>FS</th>\n<th>TOTAL</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n"
+  },
+  {
+    "bbox": [
+      163,
+      1011,
+      720,
+      1138
+    ],
+    "label": "Text",
+    "content": "\n<p>BD - Black Dots    ST - Silver Streaks    AB - Air Bubble<br/>SS - Short Fill    WL - Weld Line    PH - Pin Hole<br/>SM - Sink Marks    SC - Scratches    FS - Flashes<br/>BM - Burn Marks    PC - Power Cut</p>\n"
+  },
+  {
+    "bbox": [
+      756,
+      998,
+      1035,
+      1138
+    ],
+    "label": "Text",
+    "content": "\n<p><u>Dilip Kumar</u><br/>Operator</p>\n"
+  },
+  {
+    "bbox": [
+      1098,
+      998,
+      1359,
+      1138
+    ],
+    "label": "Text",
+    "content": "\n<p><u>S</u><br/>Shift Incharge</p>\n"
+  },
+  {
+    "bbox": [
+      1413,
+      998,
+      1665,
+      1138
+    ],
+    "label": "Text",
+    "content": "\n<p><u>AD</u><br/>Mfg. Head</p>\n"
+  }
+]

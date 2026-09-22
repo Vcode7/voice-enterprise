@@ -1,0 +1,212 @@
+**New Horizon Engg. Pvt. Ltd.**  
+NANJANGUD
+
+**INJECTION MOULDING DIVISION**  
+**HOURLY MONITORING CARD**
+
+Opening Counter: 994  
+Closing Counter: 1363
+
+Part No. : 2946 5634  
+Description : FR BTM  
+Raw Material : PPCP NL  
+Planned Prodn.: 433  
+Date : 13/8/26  
+Shift : **B** Batch No.: 33 NP
+
+Machine Name :  
+NEW-150
+
+<table border="1">
+<tr>
+<td rowspan="2">SAFETY<br/>INSTRUCTIONS</td>
+<td><input checked="" type="checkbox"/> Safety Shoe</td>
+<td><input type="checkbox"/> While handling hot Jobs</td>
+<td><input type="checkbox"/> Apron</td>
+<td><input type="checkbox"/> While Brushing/Demoulding</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+Cycle Time : 70:00  
+Setup Time : 3:00  
+Operator : Dil. cep  
+No. of Cavities : 01  
+Purge Weight :  
+Runner Weight: 827.8m
+
+<table border="1">
+<thead>
+<tr>
+<th>Start Time</th>
+<th>End Time</th>
+<th>Planned Qty.</th>
+<th>Produced Qty.</th>
+<th>%</th>
+<th>Rejection</th>
+<th>%</th>
+<th>Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>03.30 PM</td>
+<td>04.00 PM</td>
+<td>51</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>04.00 PM</td>
+<td>05.00 PM</td>
+<td>51</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>05.00 PM</td>
+<td>06.00 PM</td>
+<td>51</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>06.00 PM</td>
+<td>07.00 PM</td>
+<td>51</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>07.00 PM</td>
+<td>08.00 PM</td>
+<td>51</td>
+<td>20</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Releaver machine stop due to no Rahwan</td>
+</tr>
+<tr>
+<td>08.00 PM</td>
+<td>09.00 PM</td>
+<td>51</td>
+<td>39</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>09.00 PM</td>
+<td>10.00 PM</td>
+<td>51</td>
+<td>47</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10.00 PM</td>
+<td>11.00 PM</td>
+<td>51</td>
+<td>48</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>11.00 PM</td>
+<td>12.00 AM</td>
+<td>25</td>
+<td>25</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2">Total</td>
+<td>433</td>
+<td>369</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+RM Loading : 256 OK Component : Physical Weight : 365 +4
+
+**REJECTIONS**
+
+<table border="1">
+<thead>
+<tr>
+<th>STRUP</th>
+<th>BD</th>
+<th>SS</th>
+<th>SM</th>
+<th>BM</th>
+<th>ST</th>
+<th>WL</th>
+<th>SC</th>
+<th>PC</th>
+<th>AB</th>
+<th>PH</th>
+<th>FS</th>
+<th>TOTAL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+BD - Black Dots    ST - Silver Streaks    AB - Air Bubble  
+SS - Short Fill    WL - Weld Line    PH - Pin Hole  
+SM - Sink Marks    SC - Scratches    FS - Flashes  
+BM - Burn Marks    PC - Power Cut
+
+Dilip Kumar  
+Operator
+
+S  
+Shift Incharge
+
+AD  
+Mfg. Head

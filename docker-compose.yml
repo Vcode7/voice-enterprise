@@ -1,0 +1,40 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: voice_erp_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - SQLITE_DB_PATH=/app/data/voice_erp.db
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - GROQ_API_KEY=${GROQ_API_KEY:-}
+      - CORS_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+    volumes:
+      - ./backend/data:/app/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: voice_erp_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+      - INTERNAL_BACKEND_URL=http://backend:8000
+      - PADDLE_BACKEND_URL=http://backend:8000/ocr/paddle-vl
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - GROQ_API_KEY=${GROQ_API_KEY:-}
+    depends_on:
+      - backend
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

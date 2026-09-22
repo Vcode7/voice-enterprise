@@ -1,0 +1,49 @@
+# ==============================================================================
+# Python Backend .gitignore
+# ==============================================================================
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local Environment and Secrets
+.env
+.env.local
+
+# ML Models, Weights & Checkpoints (safetensors, bin, pt)
+models/trocr_finetuned/
+cache/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# Temporary & Output Files
+temp/
+tmp/
+*.tmp
+uploads/
+detection/*.png
+detection/*.jpg
+detection/*.jpeg
+!detection/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
